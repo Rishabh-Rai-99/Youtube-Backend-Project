@@ -1,0 +1,16 @@
+{
+  "name": "backend-chai-or-code",
+  "version": "1.0.0",
+  "description": "Youtube Backend Project",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Rishabh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
